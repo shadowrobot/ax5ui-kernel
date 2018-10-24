@@ -13,3 +13,5 @@ _git
 yarn.lock
 files
 npm-debug.log
+/.settings/
+/.project
